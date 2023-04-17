@@ -1,10 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
+import Moyin from './pages/authentication/components/exampleMoyin'
+import Hello from './pages/authentication/components/helloworld'
+import Tictactoe from './pages/authentication/components/tiktaktoe';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      {/* <Moyin/> */}
+      <Tictactoe />
+      {/* /* /*<header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -17,7 +22,7 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+      </header>*/  }
     </div>
   );
 }

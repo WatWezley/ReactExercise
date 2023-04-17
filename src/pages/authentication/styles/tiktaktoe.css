@@ -1,0 +1,175 @@
+.container{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(43, 3, 98);
+    display:inline;
+    border: 1cm;
+    border-color: darksalmon;
+}
+
+.table{
+    height: 70%;
+    width: 50%;
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    background-color: skyblue;
+}
+
+.grid1{
+    border: 1px solid black;
+    height: 120px;
+    width: 100%;
+}
+
+.grid2{
+    border: 1px solid black;
+    height: 120px;
+    width: 100%;
+}
+
+.grid3{
+    border: 1px solid black;
+    height: 120px;
+    width: 100%;
+}
+
+.grid4{
+    border: 1px solid black;
+    height: 120px;
+    width: 100%;
+}
+
+.grid6{
+    border: 1px solid black;
+    height: 120px;
+    width: 100%;
+}
+
+.grid7{
+    border: 1px solid black;
+    height: 120px;
+    width: 100%;
+}
+
+.grid8{
+    border: 1px solid black;
+    height: 120px;
+    width: 100%;
+}
+
+.grid9{
+    border: 1px solid black;
+    height: 120px;
+    width: 100%;
+}
+
+.grid5{
+    border: 1px solid black;
+    height: 120px;
+    width: 100%;
+}
+
+
+.playexit{
+    border: 3px red;
+    position: absolute;
+    bottom: 25%;
+    height : 5%;
+    width: 50%;
+    justify-content:center;
+    padding-left: 10%;
+ 
+ }
+
+ #playAgain{
+    width: 15%;
+    height: 70%;
+   margin-left:65% ;
+    
+ }
+
+ #playAgain.hover{
+    background-color: skyblue;
+ }
+
+ #exit{
+    width: 15%;
+    height: 70%;
+   
+ }
+
+
+ #enter1{
+    width: 95%;
+    height: 100%;
+    background-color: cornflowerblue;
+    font: 10em sans-serif;
+    cursor:none;
+ }
+
+ #enter2{
+    width: 95%;
+    height: 100%;
+    background-color: cornflowerblue;
+    font: 10em sans-serif;
+    cursor:none;
+ }
+
+ #enter3{
+    width: 95%;
+    height: 100%;
+    background-color: cornflowerblue;
+    font: 10em sans-serif;
+    cursor:none;
+ }
+
+ #enter4{
+    width: 95%;
+    height: 100%;
+    background-color: cornflowerblue;
+    font: 10em sans-serif;
+    cursor:none;
+ }
+
+ #enter5{
+    width: 95%;
+    height: 100%;
+    background-color: cornflowerblue;
+    font: 10em sans-serif;
+    cursor:none;
+ }
+
+ #enter6{
+    width: 95%;
+    height: 100%;
+    background-color: cornflowerblue;
+    font: 10em sans-serif;
+    cursor:none;
+ }
+
+ #enter7{
+    width: 95%;
+    height: 100%;
+    background-color: cornflowerblue;
+    font: 10em sans-serif;
+    cursor:none;
+ }
+
+ #enter8{
+    width: 95%;
+    height: 100%;
+    background-color: cornflowerblue;
+    font: 10em sans-serif;
+    cursor:none;
+ }
+ 
+ #enter9{
+    width: 95%;
+    height: 100%;
+    background-color: cornflowerblue;
+    font: 10em sans-serif;
+    cursor:none;
+ }
+
+ 
+
